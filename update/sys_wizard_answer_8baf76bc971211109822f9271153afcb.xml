@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>RSS Connection</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>RSS Connection</name>
+        <next_question/>
+        <order>600</order>
+        <payload_name/>
+        <question display_value="Connection" name="Connection">dad75eb1b3f63200350086d256a8dc00</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 10:09:22</sys_created_on>
+        <sys_id>8baf76bc971211109822f9271153afcb</sys_id>
+        <sys_name>RSS Connection</sys_name>
+        <sys_package display_value="RSS Spoke" source="x_snc_rss_spoke">392e589ddb98cc1064dcf5861d96198e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RSS Spoke">392e589ddb98cc1064dcf5861d96198e</sys_scope>
+        <sys_update_name>sys_wizard_answer_8baf76bc971211109822f9271153afcb</sys_update_name>
+        <table>x_snc_rss_spoke_rss_connection</table>
+        <target_url>x_snc_rss_spoke_rss_connection.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
